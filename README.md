@@ -16,5 +16,5 @@
 | --------- | --------- |
 | Decision Tree | 97 |
 | Naive Bayes | 66 |
-| Random Forest | 97 |
+| Random Forest | 98 |
 | Adaboost | 93 |
