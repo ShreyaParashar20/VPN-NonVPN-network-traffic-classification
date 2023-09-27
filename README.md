@@ -1,4 +1,5 @@
 # VPN-Non_VPN Network Traffic Classification using Machine Learning
+## This Notebook contains the code for network traffic classification using machine learning. The main ojective of this project is to classify the network traffic data into VPN(Virtual Private Network) or Non-VPN class.
 ## Dataset Description:
 * Utilized the ISCX VPN non-VPN 2016 publicly available dataset, Each data point represents network flow from source to destination.
 * Dataset was consisting 84 features.
